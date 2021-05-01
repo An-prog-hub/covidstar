@@ -1,1 +1,1 @@
-# godaddy-website
+# CovidStar🌟
