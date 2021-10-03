@@ -9,6 +9,7 @@ firebase-debug.*.log*
 
 # Firebase cache
 .firebase/
+.firebasesrc/
 
 # Firebase config
 
@@ -31,8 +32,10 @@ coverage
 
 # nyc test coverage
 .nyc_output
+.nyc
 
 # Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt/
 .grunt
 
 # Bower dependency directory (https://bower.io/)
